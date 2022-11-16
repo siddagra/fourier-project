@@ -1,0 +1,17 @@
+{
+    "embed_dim": 768,
+    "dim_feedforward": 2048,
+    "drouput_rate": 0.1,
+    "patch_size": [16, 16],
+    "img_size": [1080, 1080],
+    "in_chans": 3,
+    "num_layers": 12,
+    "dropout_rate": 0.1,
+    "epochs": 10,
+    "lr": 0.005,
+    "num_workers": 10,
+    "num_classes": 10,
+    "batch_size": 192,
+    "dataset_path": "CIFAR10-data",
+    "save_dir": "output-FiT"
+}
