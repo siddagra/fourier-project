@@ -1,6 +1,4 @@
-Got it! Here's a cleaned-up and revised version of your README that **removes your personal contact info** and adjusts the project structure to match your actual repo files. Also, I removed the SSM part since it's future exploration.
 
----
 
 # Scaling Up Computer Vision Neural Networks Using Fast Fourier Transform
 
@@ -214,5 +212,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ **Star this repository if you found it helpful!**
 
 ---
-
-Let me know if you want me to help generate a `README.md` file for you based on this or help with anything else!
